@@ -1,0 +1,1 @@
+mongodb+srv://ulas:nzpDRDies0BYUrg5@e-commerce.xd4qqlu.mongodb.net/
